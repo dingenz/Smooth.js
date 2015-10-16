@@ -1,6 +1,6 @@
 # What is this for?
 
-This is a fork of [Smooth.js](https://github.com/osuushi/Smooth.js). It provides the latest version of Smooth.js as a compiled JavaScript file.
+Forked from [Smooth.js](https://github.com/osuushi/Smooth.js). This fork provides the latest version of Smooth.js as a compiled JavaScript file.
 
 # How do I use it?
 
